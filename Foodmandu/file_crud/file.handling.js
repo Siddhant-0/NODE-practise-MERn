@@ -1,3 +1,3 @@
 use("Foodmandu");
 
-db.customers.find();
+db.restaurants.find();
